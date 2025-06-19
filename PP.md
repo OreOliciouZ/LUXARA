@@ -82,4 +82,4 @@ If you have questions about this Privacy Policy, reach out via:
 
 * Discord: oreoliciouz
 * Email: ms.missingstars@gmail.com
-* Support Server: https://discord.gg/asRaJG9zCc
+* Support Server: [Missing Stars](https://discord.gg/asRaJG9zCc)
