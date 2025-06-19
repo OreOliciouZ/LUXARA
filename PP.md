@@ -1,4 +1,4 @@
-# **Privacy Policy for \[Your Bot Name]**
+# **Privacy Policy for \Missing Stars**
 
 *Last Updated: \06/19/2025*
 
