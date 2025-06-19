@@ -22,7 +22,7 @@ Server IDs and settings
 
 We do not sell or share any collected data with third parties.
 
-For more information, refer to our [Privacy Policy] (if available).
+For more information, refer to our [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md).
 
 3. Prohibited Use
 You agree not to:
