@@ -1,14 +1,14 @@
-# **Privacy Policy for \Missing Stars**
+# **Privacy Policy for Missing Stars**
 
-*Last Updated: \06/19/2025*
+*Last Updated: 06/19/2025*
 
-\Missing Stars ("the Bot") respects your privacy and is committed to protecting your information. This Privacy Policy explains what data the Bot collects, how it's used, and your rights regarding your data.
+Missing Stars ("the Bot") respects your privacy and is committed to protecting your information. This Privacy Policy explains what data the Bot collects, how it's used, and your rights regarding your data.
 
 ---
 
 ### 1. Data We Collect
 
-When you use \Missing Stars, we may collect the following types of data:
+When you use Missing Stars, we may collect the following types of data:
 
 * **Server Information:** Server ID, server name, and configuration settings.
 * **User Information:** User ID and username (only when needed for bot functionality).
@@ -66,7 +66,7 @@ You have the right to:
 * Request deletion of your data
 * Opt out of certain data collection (if possible without breaking bot functionality)
 
-To exercise any of these rights, contact on Discord: \oreoliciouz
+To exercise any of these rights, contact on Discord: oreoliciouz
 
 ---
 
@@ -80,6 +80,6 @@ This policy may be updated from time to time. Material changes will be announced
 
 If you have questions about this Privacy Policy, reach out via:
 
-* Discord: \oreoliciouz
-* Email: \ms.missingstars@gmail.com
-* Support Server: \https://discord.gg/asRaJG9zCc
+* Discord: oreoliciouz
+* Email: ms.missingstars@gmail.com
+* Support Server: https://discord.gg/asRaJG9zCc
