@@ -1,4 +1,4 @@
-# [Your Bot Name] 🤖
+# Missing Stars 🤖
 
 A powerful moderation bot for Discord with essential tools to help manage your server with ease.
 
@@ -36,15 +36,16 @@ A powerful moderation bot for Discord with essential tools to help manage your s
 ## Support
 
 For help, suggestions, or issues:
-- Join our Support Server: [Link to Support Server]
-- Contact: [Your Discord Tag or Email]
+- Join our Support Server: [Missing Stars](https://discord.gg/asRaJG9zCc)
+- Discord: oreoliciouz
+- Contact: ms.missingstars@gmail.com
 
 ---
 
 ## Privacy & Terms
 
-- [Privacy Policy](link-to-privacy-policy)
-- [Terms of Service](link-to-terms-of-service)
+- [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md)
+- [Terms of Service](https://github.com/OreOliciouZ/MSBot/blob/main/ToS.md)
 
 ---
 
