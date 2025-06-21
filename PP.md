@@ -1,85 +1,23 @@
-# **Privacy Policy for Missing Stars**
+# Privacy Policy for Missing Stars
 
-*Last Updated: 06/19/2025*
+**Last Updated:** June 20, 2025
 
-Missing Stars ("the Bot") respects your privacy and is committed to protecting your information. This Privacy Policy explains what data the Bot collects, how it's used, and your rights regarding your data.
+This Privacy Policy explains what information we collect, why we collect it, and how you can manage it when you use **Missing Stars** ("the Bot").
 
----
+## 1. What Data We Collect and Why
 
-### 1. Data We Collect
+-   **User ID:** Your unique Discord ID is collected and stored as the primary identifier for all your game-related data.
+-   **Economy & Inventory Data:** We store your balances, cooldowns, and items for game functionality.
+-   **Moderation Data:** For commands like `/mute`, we may store a timestamp indicating when a mute expires.
 
-When you use Missing Stars, we may collect the following types of data:
+## 3. Third-Party Services
 
-* **Server Information:** Server ID, server name, and configuration settings.
-* **User Information:** User ID and username (only when needed for bot functionality).
-* **Message Content:** Only when explicitly required (e.g., for moderation, command handling, logging).
-* **Command Usage Data:** Logs of command usage for analytics and diagnostics (non-personal).
+-   **Discloud:** The Bot and its database are hosted on Discloud.
 
-We **do not** collect:
+## 5. Your Rights and Data Deletion
 
-* Passwords
-* Direct messages (DMs), unless the bot is designed to operate within DMs
-* Sensitive personal information (unless specified)
+You have the right to request the complete deletion of your data. To do so, please join our official **[Support Server](https://discord.gg/asRaJG9zCc)**.
 
----
+## 8. Contact Us
 
-### 2. How We Use Your Data
-
-Data is used to:
-
-* Operate core features of the Bot
-* Provide support and improvements
-* Detect and prevent abuse or misuse
-* Maintain server-specific configurations
-
----
-
-### 3. Data Storage & Retention
-
-* Data is stored securely and only as long as necessary for its intended purpose.
-* You may request data deletion at any time (see Section 6).
-* If the Bot is removed from a server, associated server data will be deleted automatically or after a reasonable period.
-
----
-
-### 4. Sharing of Data
-
-We **do not sell, share, or rent** your data to third parties. Data may only be shared under the following conditions:
-
-* With your explicit consent
-* If required by law
-* For technical support with trusted collaborators (only the minimum necessary data)
-
----
-
-### 5. Children's Privacy
-
-The Bot is intended for users aged 13 or older, in accordance with Discord’s Terms of Service. If you believe the Bot has collected data from a user under the age of 13, please contact us immediately.
-
----
-
-### 6. Your Rights
-
-You have the right to:
-
-* Request access to your data
-* Request deletion of your data
-* Opt out of certain data collection (if possible without breaking bot functionality)
-
-To exercise any of these rights, contact on Discord: oreoliciouz
-
----
-
-### 7. Changes to This Policy
-
-This policy may be updated from time to time. Material changes will be announced through our support server or via bot announcements. Continued use of the Bot after changes constitutes acceptance.
-
----
-
-### 8. Contact
-
-If you have questions about this Privacy Policy, reach out via:
-
-* Discord: oreoliciouz
-* Email: ms.missingstars@gmail.com
-* Support Server: [Missing Stars](https://discord.gg/asRaJG9zCc)
+If you have any questions about this Privacy Policy, please contact us in our [Support Server](https://discord.gg/asRaJG9zCc).
