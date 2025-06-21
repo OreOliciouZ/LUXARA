@@ -1,54 +1,26 @@
-# Missing Stars 🤖
+# Missing Stars - A Feature-Rich Discord Bot
 
-A powerful moderation bot for Discord with essential tools to help manage your server with ease.
+Welcome to **Missing Stars**, a multi-purpose Discord bot designed to bring your server to life with a comprehensive economy system and powerful moderation tools. Engage your community with fun games, a dynamic shop, item crafting, and secure player-to-player trading, all while keeping your server safe.
 
----
-
-## Features
-
-🔧 **Moderation Commands:**
-
-- `/ping` – Check the bot's responsiveness and latency.
-- `/kick` – Remove a member from the server.
-- `/ban` – Permanently ban a member from the server.
+[Invite Missing Stars](https://discord.com/api/oauth2/authorize?client_id=967589433828311080&permissions=8&scope=bot%20applications.commands) | [Join the Support Server](https://discord.gg/asRaJG9zCc)
 
 ---
 
-## Getting Started
+## ✨ Key Features
 
-1. **Invite the Bot:**  
-   Use the [this](https://discord.com/oauth2/authorize?client_id=967589433828311080) to add the bot to your server with the appropriate permissions.
+**Missing Stars** is packed with features to create an engaging and well-managed server experience:
 
-2. **Permissions Required:**
-   - Kick Members
-   - Ban Members
-   - Send Messages
-   - Use Slash Commands (applications.commands)
-
-3. **Using Commands:**
-   Type `/` in any channel and select one of the available commands:
-   - `/ping` – Replies with a latency check.
-   - `/kick [user] [reason]` – Kicks the specified user from the server.
-   - `/ban [user] [reason]` – Bans the specified user from the server.
+*   **🤖 Robust Moderation:** A full suite of commands (`/kick`, `/ban`, `/mute`, `/warn`) to empower your moderation team.
+*   **💸 Deep Economy System:** Earn money through `/work`, `/crime`, and `/daily` rewards. Manage your finances with a `/bank`.
+*   **🛒 Dynamic Shop:** A fully-featured `/shop` with permanent stock and **Weekly Rotating Specials** to keep things fresh.
+*   **🎲 Fun Minigames:** Test your luck with `/coinflip` and `/blackjack` to win big.
+*   **📊 Leaderboards & Profiles:** Track your progress with `/profile` and compete for the top spot on the `/leaderboard`.
 
 ---
 
-## Support
+## ⚖️ Legal
 
-For help, suggestions, or issues:
-- Join our Support Server: [Missing Stars](https://discord.gg/asRaJG9zCc)
-- Discord: oreoliciouz
-- Contact: ms.missingstars@gmail.com
+By using **Missing Stars**, you agree to our [Terms of Service](https://github.com/OreOliciouZ/MSBot/blob/main/ToS.md) and [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md). Please read them carefully.
 
 ---
-
-## Privacy & Terms
-
-- [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md)
-- [Terms of Service](https://github.com/OreOliciouZ/MSBot/blob/main/ToS.md)
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+*Created with ❤️ by `oreoliciouz`*
