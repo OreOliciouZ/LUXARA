@@ -1,6 +1,6 @@
 # Missing Stars - A Feature-Rich Discord Bot
 
-Welcome to **Missing Stars**, a multi-purpose Discord bot designed to bring your server to life with a comprehensive economy system and powerful moderation tools. Engage your community with fun games, a dynamic shop, item crafting, and secure player-to-player trading, all while keeping your server safe.
+Welcome to **Missing Stars**, a multi-purpose Discord bot designed to bring your server to life with a comprehensive economy system and powerful moderation tools. Engage your community with fun games, a dynamic shop all while keeping your server safe.
 
 [Invite Missing Stars](https://discord.com/api/oauth2/authorize?client_id=967589433828311080&permissions=8&scope=bot%20applications.commands) | [Join the Support Server](https://discord.gg/asRaJG9zCc)
 
