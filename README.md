@@ -12,7 +12,7 @@ Welcome to **Missing Stars**, a multi-purpose Discord bot designed to bring your
 
 *   **🤖 Robust Moderation:** A full suite of commands (`/kick`, `/ban`, `/mute`, `/warn`) to empower your moderation team.
 *   **💸 Deep Economy System:** Earn money through `/work`, `/crime`, and `/daily` rewards. Manage your finances with a `/bank`.
-*   **🛒 Dynamic Shop:** A fully-featured `/shop` with permanent stock and **Weekly Rotating Specials** to keep things fresh.
+*   **🛒 Dynamic Shop:** A fully-featured `/shop`, `/inventory` and `/use` function with permanent stock and **Weekly Rotating Specials** to keep things fresh.
 *   **🎲 Fun Minigames:** Test your luck with `/coinflip` and `/blackjack` to win big.
 *   **📊 Leaderboards & Profiles:** Track your progress with `/profile` and compete for the top spot on the `/leaderboard`.
 
