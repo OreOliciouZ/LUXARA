@@ -6,7 +6,7 @@ By inviting or using **Missing Stars** ("the Bot") in your Discord server, you a
 
 ## 1. Description of Service
 
-The Bot provides a variety of features including, but not limited to, server moderation, an interactive economy game, item crafting, player-to-player trading, and other entertainment-focused commands.
+The Bot provides a variety of features including, but not limited to, server moderation, an interactive economy game and other entertainment-focused commands.
 
 ## 2. Rules of Conduct
 
