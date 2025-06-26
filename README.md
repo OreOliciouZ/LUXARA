@@ -14,7 +14,7 @@ Welcome to **Missing Stars**, a powerful, multi-purpose Discord bot designed to 
 *   **Earn Your Fortune:** Gain currency by using `/work`, `/crime`, and claiming your `/daily` reward.
 *   **Level Up:** Gain XP from almost every command to raise your `/profile` level and unlock rewards.
 *   **Manage Your Wealth:** Secure your earnings in the `/bank` using `/deposit` and `/withdraw`. Pay your friends with `/pay` or surprise them with `/gift`.
-*   **Become a Legend:** Climb the server rankings on the wealth `/leaderboard` and the experience `/levelboard`.
+*   **Become a Legend:** Climb the server rankings on the wealth and experience `/leaderboard`.
 
 ### 🛒 Dynamic Item & Shop System
 *   **Browse the Store:** Visit the `/shop`, which features both a permanent stock of useful items and a selection of **Weekly Rotating Specials** to keep the market fresh.
