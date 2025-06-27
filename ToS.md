@@ -1,12 +1,12 @@
 # Terms of Service for Missing Stars
 
-**Last Updated:** June 26, 2025
+**Last Updated:** June 27, 2025
 
 By inviting or using **Missing Stars** ("the Bot") in your Discord server, you and all server members who interact with the Bot's features agree to be bound by these Terms of Service ("Terms"), in addition to Discord's own Terms of Service.
 
 ## 1. Description of Service
 
-The Bot provides a range of features including, but not limited to, server moderation, a multifaceted economy game, user utilities, and entertainment commands. Features may be added, changed, or removed at any time at the discretion of the developer without prior notice. The service is provided on an "as-is" and "as-available" basis.
+The Bot provides a range of features including, but not limited to, server moderation, a multifaceted economy game, user utilities, automatic translation, and entertainment commands. Features may be added, changed, or removed at any time at the discretion of the developer without prior notice. The service is provided on an "as-is" and "as-available" basis.
 
 ## 2. Rules of Conduct
 
@@ -15,7 +15,7 @@ You agree not to use the Bot for any of the following purposes:
 - To abuse, exploit, or attempt to reverse-engineer any command or system (e.g., finding loopholes in the economy).
 - To utilize macros, user-bots, scripts, or any other form of automation to interact with the Bot's commands to gain an unfair advantage.
 - To conduct fraudulent activities, such as scamming users through the `/gift` or `/pay` commands.
-- To spam commands in a way that disrupts the experience for other users or degrades the Bot's performance.
+- To spam commands or otherwise trigger automated bot responses in a way that disrupts the experience for other users or degrades the Bot's performance.
 
 Violation of these rules may result in a permanent ban from using the Bot.
 
