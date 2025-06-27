@@ -12,7 +12,7 @@ Welcome to **Missing Stars**, a powerful, multi-purpose Discord bot designed to 
 
 ### 💸 Deep Economy & RPG System
 *   **Earn Your Fortune:** Gain currency by using `/work`, `/crime`, and claiming your `/daily` reward.
-*   **Level Up:** Gain XP from almost every command to raise your `/profile` level and unlock rewards.
+*   **Level Up:** Gain XP from almost every command to raise your `/profile` level and unlock milestone rewards.
 *   **Manage Your Wealth:** Secure your earnings in the `/bank` using `/deposit` and `/withdraw`. Pay your friends with `/pay` or surprise them with `/gift`.
 *   **Become a Legend:** Climb the server rankings on the wealth and experience `/leaderboard`.
 
@@ -30,6 +30,10 @@ Welcome to **Missing Stars**, a powerful, multi-purpose Discord bot designed to 
 *   **Automated Protection:** Keep your server clean with auto-mod features, including spam protection and malicious link blocking.
 *   **Comprehensive Audit Logs:** All moderation actions, as well as voice channel joins/leaves, are automatically logged to a configured channel for full transparency.
 *   **Advanced Ticketing:** A professional-grade `/ticket-setup` system allows users to create private support channels with the click of a button.
+
+### 🌐 Internationalization & Accessibility
+*   **Automatic Translation:** The bot can automatically detect messages sent in a foreign language, instantly replying with a clean, embedded translation to keep conversations flowing.
+*   **Fully Configurable:** Administrators can use the `/translate-config` command to enable translation globally or specify exact channels, ensuring it only works where you want it to.
 
 ### ⚙️ Customizable Utility
 *   **Personalized Experience:** Configure custom welcome (`/config-events`) and goodbye messages.
