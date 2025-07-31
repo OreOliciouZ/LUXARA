@@ -1,14 +1,14 @@
-# Missing Stars - A Feature-Rich Discord Bot
+# LUXARA - A Feature-Rich Discord Bot
 
-Welcome to **Missing Stars**, a powerful, multi-purpose Discord bot designed to bring your server to life with a comprehensive economy, robust moderation, and engaging entertainment features. Built from the ground up, Missing Stars provides a polished and seamless experience for both administrators and community members.
+Welcome to **LUXARA**, a powerful, multi-purpose Discord bot designed to bring your server to life with a comprehensive economy, robust moderation, and engaging entertainment features. Built from the ground up, LUXARA provides a polished and seamless experience for both administrators and community members.
 
-[Invite Missing Stars](https://discord.com/api/oauth2/authorize?client_id=967589433828311080&permissions=8&scope=bot%20applications.commands) | [Join the Support Server](https://discord.gg/asRaJG9zCc)
+[Invite LUXARA](https://discord.com/api/oauth2/authorize?client_id=967589433828311080&permissions=8&scope=bot%20applications.commands) | [Join the Support Server](https://discord.gg/asRaJG9zCc)
 
 ---
 
 ## ✨ Core Features
 
-**Missing Stars** is packed with features to create an engaging and well-managed server experience:
+**LUXARA** is packed with features to create an engaging and well-managed server experience:
 
 ### 💸 Deep Economy & RPG System
 *   **Earn Your Fortune:** Gain currency by using `/work`, `/crime`, and claiming your `/daily` reward.
@@ -44,7 +44,7 @@ Welcome to **Missing Stars**, a powerful, multi-purpose Discord bot designed to 
 
 ## ⚖️ Legal
 
-By using **Missing Stars**, you agree to our [Terms of Service](https://github.com/OreOliciouZ/MSBot/blob/main/ToS.md) and [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md). Please read them carefully.
+By using **LUXARA**, you agree to our [Terms of Service](https://github.com/OreOliciouZ/MSBot/blob/main/ToS.md) and [Privacy Policy](https://github.com/OreOliciouZ/MSBot/blob/main/PP.md). Please read them carefully.
 
 ---
 *Created with ❤️ by `oreoliciouz`*
