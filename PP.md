@@ -1,8 +1,8 @@
-# Privacy Policy for Missing Stars
+# Privacy Policy for LUXARA
 
 **Last Updated:** June 27, 2025
 
-This Privacy Policy explains what information we collect, why we collect it, and how you can manage it when you use **Missing Stars** ("the Bot").
+This Privacy Policy explains what information we collect, why we collect it, and how you can manage it when you use **LUXARA** ("the Bot").
 
 ## 1. What Data We Store
 
