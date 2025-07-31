@@ -1,8 +1,8 @@
-# Terms of Service for Missing Stars
+# Terms of Service for LUXARA
 
 **Last Updated:** June 27, 2025
 
-By inviting or using **Missing Stars** ("the Bot") in your Discord server, you and all server members who interact with the Bot's features agree to be bound by these Terms of Service ("Terms"), in addition to Discord's own Terms of Service.
+By inviting or using **LUXARA** ("the Bot") in your Discord server, you and all server members who interact with the Bot's features agree to be bound by these Terms of Service ("Terms"), in addition to Discord's own Terms of Service.
 
 ## 1. Description of Service
 
@@ -29,7 +29,7 @@ The Bot is provided "as is," and we make no warranties, express or implied, that
 
 ## 5. Limitation of Liability
 
-In no event shall the creator of Missing Stars be liable for any direct, indirect, special, incidental, or consequential damages arising from the use or inability to use the Bot. This includes, but is not limited to, damages for loss of virtual goods or in-game status.
+In no event shall the creator of LUXARA be liable for any direct, indirect, special, incidental, or consequential damages arising from the use or inability to use the Bot. This includes, but is not limited to, damages for loss of virtual goods or in-game status.
 
 ## 6. Contact
 
