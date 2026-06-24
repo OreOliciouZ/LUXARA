@@ -8,6 +8,7 @@ Welcome to **LUXARA**, a powerful, multi-purpose Discord bot designed to bring y
 
 ## ✨ Features at a Glance
 
+- **🌍 Seamless Translation:** Auto-translate live chat in specific channels or let users translate any message instantly by reacting with a country flag! Built-in spam protection and auto-delete timers keep your chats clean.
 - **💸 Deep Economy System:** Earn, save, trade, and compete on leaderboards.
 - **🛍️ Rotating Item Shop:** Weekly and permanent items with passive or active effects.
 - **🎮 Fun Mini-Games:** Blackjack, Coinflip, Slots, and more.
@@ -39,6 +40,33 @@ Set up Discord’s AutoMod using LUXARA’s commands:
      ```bash
      /automod set-timeout rule:Keyword duration:5
      ```
+
+---
+
+## 🌍 Translation Quick Start
+
+Set up automatic and reaction-based translations:
+
+1. **Enable Auto-Translation (Live chat):**
+   ```bash
+   /translate-config add-channel channel:#international
+   ```
+2. **Enable Reaction-Translation (Flags):**
+   ```bash
+   /translate-config global-reactions status:True
+   ```
+   *(Users can now react to ANY message with a flag like 🇺🇸, 🇪🇸, or 🇯🇵, and LUXARA will translate it instantly!)*
+   
+3. **Set a Translation Log Channel (Optional):**
+   ```bash
+   /translate-config set-log-channel channel:#translation-logs
+   ```
+
+4. **Set an Auto-Delete Timer (Keep chats clean!):**
+   ```bash
+   /translate-config remove-after seconds:60
+   ```
+   *(Translated messages will automatically delete themselves after the set time).*
 
 ---
 
@@ -112,7 +140,7 @@ Set up Discord’s AutoMod using LUXARA’s commands:
 | `/say` | Make the bot say something | `/say <message> [channel]` | Manage Messages |
 | `/serverinfo` | Show server info | `/serverinfo` | None |
 | `/ticket-setup` | Configure ticket system | `/ticket-setup <config/panel>` | Administrator |
-| `/translate-config` | Manage auto-translation | `/translate-config <subcommand>` | Manage Guild |
+| `/translate-config` | Setup auto & reaction translation | `/translate-config <subcommand>` | Manage Guild |
 | `/userinfo` | Show user info | `/userinfo [user]` | None |
 
 ---
